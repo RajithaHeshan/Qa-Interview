@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const testcafe_hammerhead_1 = require("testcafe-hammerhead");
+class ProxylessPipelineContext extends testcafe_hammerhead_1.BaseRequestPipelineContext {
+    constructor(requestId) {
+        super(requestId);
+    }
+}
+exports.default = ProxylessPipelineContext;
+module.exports = exports.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGlwZWxpbmUtY29udGV4dC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9wcm94eWxlc3MvcmVxdWVzdC1ob29rcy9waXBlbGluZS1jb250ZXh0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsNkRBQWlFO0FBRWpFLE1BQXFCLHdCQUF5QixTQUFRLGdEQUEwQjtJQUM1RSxZQUFvQixTQUFpQjtRQUNqQyxLQUFLLENBQUMsU0FBUyxDQUFDLENBQUM7SUFDckIsQ0FBQztDQUNKO0FBSkQsMkNBSUMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBCYXNlUmVxdWVzdFBpcGVsaW5lQ29udGV4dCB9IGZyb20gJ3Rlc3RjYWZlLWhhbW1lcmhlYWQnO1xuXG5leHBvcnQgZGVmYXVsdCBjbGFzcyBQcm94eWxlc3NQaXBlbGluZUNvbnRleHQgZXh0ZW5kcyBCYXNlUmVxdWVzdFBpcGVsaW5lQ29udGV4dCB7XG4gICAgcHVibGljIGNvbnN0cnVjdG9yIChyZXF1ZXN0SWQ6IHN0cmluZykge1xuICAgICAgICBzdXBlcihyZXF1ZXN0SWQpO1xuICAgIH1cbn1cbiJdfQ==

@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const DASHBOARD_DOCUMENTATION_URL = 'https://testcafe.io/dashboard';
+exports.default = DASHBOARD_DOCUMENTATION_URL;
+module.exports = exports.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZG9jdW1lbnRhdGlvbi11cmwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvZGFzaGJvYXJkL2RvY3VtZW50YXRpb24tdXJsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsTUFBTSwyQkFBMkIsR0FBRywrQkFBK0IsQ0FBQztBQUVwRSxrQkFBZSwyQkFBMkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IERBU0hCT0FSRF9ET0NVTUVOVEFUSU9OX1VSTCA9ICdodHRwczovL3Rlc3RjYWZlLmlvL2Rhc2hib2FyZCc7XG5cbmV4cG9ydCBkZWZhdWx0IERBU0hCT0FSRF9ET0NVTUVOVEFUSU9OX1VSTDtcbiJdfQ==

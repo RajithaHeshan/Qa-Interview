@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const DEFAULT_PROXYLESS_SETUP_OPTIONS = {
+    serviceDomains: [],
+    developmentMode: false,
+};
+exports.default = DEFAULT_PROXYLESS_SETUP_OPTIONS;
+module.exports = exports.default;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGVmYXVsdC1zZXR1cC1vcHRpb25zLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vc3JjL3Byb3h5bGVzcy9kZWZhdWx0LXNldHVwLW9wdGlvbnMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxNQUFNLCtCQUErQixHQUFHO0lBQ3BDLGNBQWMsRUFBRyxFQUFFO0lBQ25CLGVBQWUsRUFBRSxLQUFLO0NBQ3pCLENBQUM7QUFFRixrQkFBZSwrQkFBK0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IERFRkFVTFRfUFJPWFlMRVNTX1NFVFVQX09QVElPTlMgPSB7XG4gICAgc2VydmljZURvbWFpbnM6ICBbXSxcbiAgICBkZXZlbG9wbWVudE1vZGU6IGZhbHNlLFxufTtcblxuZXhwb3J0IGRlZmF1bHQgREVGQVVMVF9QUk9YWUxFU1NfU0VUVVBfT1BUSU9OUztcblxuIl19
